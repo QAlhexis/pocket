@@ -1,0 +1,15 @@
+.logo {
+    background-color: #D3D3D3;
+    text-align: center;
+    margin-top: 1px;
+}
+
+.logo img {
+    max-width: 100%;
+}
+
+.logo label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 24px;
+}
